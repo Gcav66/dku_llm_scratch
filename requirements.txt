@@ -1,0 +1,6 @@
+http://localhost:11200//public/packages/dataiku-internal-client.tar.gz
+openai
+langchain
+chromadb
+pypdf
+tiktoken
